@@ -76,7 +76,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "gatsby": "^3.9.0",
+    "gatsby": "^4.25.7",
     "grommet": "^2.15.0",
     "grommet-icons": "^4.5.0",
     "jest": "^26.4.2",
